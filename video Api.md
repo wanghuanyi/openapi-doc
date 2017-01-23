@@ -3,24 +3,24 @@
 ##接口说明
 + 域名
 ```
-    开发环境： cms.vmovier.cc
-    测试环境： openapi.vmovier.com
-    生成环境： 
+开发环境： cms.vmovier.cc
+测试环境： openapi.vmovier.com
+生成环境： 
 ```
 ### 获取标签列表
 
 + 接口地址
 ```
-    /api/video/tag
+/api/video/tag
 ```
 
 + 请求方式
 ```
-    GET
+GET
 ```
 + 请求参数
 ```
-    无
+无
 ```
 
 + 返回结果
@@ -46,16 +46,16 @@
 ### 获取分类
 + 接口地址
 ```
-    /api/video/category
+/api/video/category
 ```
 
 + 请求方式
 ```
-    GET
+GET
 ```
 + 请求参数
 ```
-    无
+无
 ```
 
 + 返回结果
